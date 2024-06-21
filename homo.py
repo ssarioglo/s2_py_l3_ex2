@@ -1,0 +1,11 @@
+print("Введите этапы развития человека")
+
+print("Этап 1 из 4:")
+first = input()
+print("Этап 2 из 4:")
+second = input()
+print("Этап 3 из 4:")
+third = input()
+print("Этап 4 из 4:")
+fourth = input()
+print(first, second, third, fourth, sep=' => ')
